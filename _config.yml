@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0 #following instructions  https://github.com/pages-themes/minimal
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Betting Markets Insider Events
+description: An analysis of insider-trading events in public betting markets.
