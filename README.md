@@ -10,4 +10,4 @@ I'm an Air Force C-130J pilot with an interest in data science.
 - Javascript
 
 ## Contact
-You can reach me at [LinkedIn][(https://www.linkedin.com/username)](https://www.linkedin.com/in/tim-kim-6a879718b/) or [GitHub([https://github.com/username](https://github.com/tkim473 )).
+You can reach me at [LinkedIn][(https://www.linkedin.com/username)](https://www.linkedin.com/in/tim-kim-6a879718b/) or [GitHub]([https://github.com/username](https://github.com/tkim473 )).
